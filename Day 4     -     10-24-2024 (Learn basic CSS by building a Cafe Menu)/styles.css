@@ -74,3 +74,7 @@ body {
     color: grey;
   }
   
+  a:hover {
+    color: brown;
+  }
+  
