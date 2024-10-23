@@ -47,7 +47,7 @@ body {
     display: inline-block;
     margin-top: 5px;
     margin-bottom: 5px;
-    font-size: 18px;  
+    font-size: 18px;
   }
   
   .flavor, .dessert {
@@ -60,7 +60,9 @@ body {
     width: 25%;
   }
   
-  footer {
-  }
   /* FOOTER */
+  
+  footer {
+    font-size: 14px;
+  }
   
