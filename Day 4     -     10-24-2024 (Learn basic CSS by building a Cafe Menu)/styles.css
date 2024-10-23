@@ -78,3 +78,6 @@ body {
     color: brown;
   }
   
+  a:active {
+    color: white;
+  }
